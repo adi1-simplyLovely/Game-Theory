@@ -48,8 +48,8 @@ Combined game: G₁ ⊕ G₂ ⊕ ... ⊕ Gₙ
 
 ### Stage 1: Foundation
 - [x] Nim Game I — CSES
-- [ ] Nim Game — LeetCode
-- [ ] Game of Stones — HackerRank
+- [x] Nim Game — LeetCode
+- [x] Game of Stones — HackerRank
 - [ ] A Game of Nim — HackerRank
 - [ ] Tower Breakers — HackerRank
 
